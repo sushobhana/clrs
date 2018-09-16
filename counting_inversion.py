@@ -53,4 +53,4 @@ def counting(array, begin, mid, end):
 if __name__ == '__main__':
     A = [2, 3, 8, 6, 1]
     a = counting_inversion(A, 0, 4)
-    # print(a)
+    print(a)
